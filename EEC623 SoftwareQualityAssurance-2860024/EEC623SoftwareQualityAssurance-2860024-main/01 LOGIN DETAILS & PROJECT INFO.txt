@@ -1,0 +1,16 @@
+**Database Name: ecommerceapp**
+
+
+**Admin Login Details**
+
+Email:    harryden@gmail.com
+Password: password
+
+
+**Customer Login Details**
+Email: indraprashanth007@gmail.com
+password: password
+
+**Paypal Testing account details **
+Email: sb-47f1ap25480659@personal.example.com
+password: password
